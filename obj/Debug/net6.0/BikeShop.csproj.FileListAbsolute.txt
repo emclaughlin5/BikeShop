@@ -1,0 +1,15 @@
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\bin\Debug\net6.0\BikeShop.exe
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\bin\Debug\net6.0\BikeShop.deps.json
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\bin\Debug\net6.0\BikeShop.runtimeconfig.json
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\bin\Debug\net6.0\BikeShop.dll
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\bin\Debug\net6.0\BikeShop.pdb
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.csproj.AssemblyReference.cache
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.AssemblyInfoInputs.cache
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.AssemblyInfo.cs
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.csproj.CoreCompileInputs.cache
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.dll
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\refint\BikeShop.dll
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.pdb
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\BikeShop.genruntimeconfig.cache
+G:\Documents\School Shit\SAIT\Emerging Trends\BikeShop\obj\Debug\net6.0\ref\BikeShop.dll
